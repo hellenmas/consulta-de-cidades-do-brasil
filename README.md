@@ -9,4 +9,4 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 💻️PostgreSQL 💻️Spring boot 💻️java 💻️heroku  
 
 
-## Feito com ❤️ por hellenmassolin 👋️
+## Feito com ❤️ por hellenm
